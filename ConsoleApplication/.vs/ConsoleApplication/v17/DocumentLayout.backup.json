@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Home-PC\\Documents\\\u043B\u043D\u0443\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u21162\\ConsoleApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26D79A8B-88A5-49B7-99CE-2EA904ADD2C2}|ConsoleApplication.vcxproj|C:\\Users\\Home-PC\\Documents\\\u043B\u043D\u0443\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u21162\\ConsoleApplication\\ConsoleApplication.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26D79A8B-88A5-49B7-99CE-2EA904ADD2C2}|ConsoleApplication.vcxproj|solutionrelative:ConsoleApplication.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleApplication.cpp",
+              "DocumentMoniker": "C:\\Users\\Home-PC\\Documents\\\u043B\u043D\u0443\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u21162\\ConsoleApplication\\ConsoleApplication.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication.cpp",
+              "ToolTip": "C:\\Users\\Home-PC\\Documents\\\u043B\u043D\u0443\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u21162\\ConsoleApplication\\ConsoleApplication.cpp",
+              "RelativeToolTip": "ConsoleApplication.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T08:34:02.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
