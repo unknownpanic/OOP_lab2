@@ -1,12 +1,11 @@
 # ninja log v6
-30	324	7640766421162281	CMakeFiles/_2.dir/ConsoleApplication/triangle.cpp.obj	e093bfcda8a77738
-8	873	7640766420935532	CMakeFiles/_2.dir/ConsoleApplication/ConsoleApplication.cpp.obj	a7b7830c48a1f4a8
-876	1188	7640766429611205	_2.exe	a14b88e8ae1d73a2
-19	3432	7640767993364203	CMakeFiles/_2.dir/ConsoleApplication/ConsoleApplication.cpp.obj	a7b7830c48a1f4a8
-3438	3732	7640768027553407	_2.exe	a14b88e8ae1d73a2
-40	319	7640768408127433	CMakeFiles/_2.dir/ConsoleApplication/triangle.cpp.obj	e093bfcda8a77738
-18	859	7640768407901094	CMakeFiles/_2.dir/ConsoleApplication/ConsoleApplication.cpp.obj	a7b7830c48a1f4a8
-860	1180	7640768416335901	_2.exe	a14b88e8ae1d73a2
-39	336	7640792337968094	CMakeFiles/_2.dir/ConsoleApplication/triangle.cpp.obj	e093bfcda8a77738
-18	859	7640792337762735	CMakeFiles/_2.dir/ConsoleApplication/ConsoleApplication.cpp.obj	a7b7830c48a1f4a8
-859	1196	7640792346174424	_2.exe	a14b88e8ae1d73a2
+34	321	7641067629198688	CMakeFiles/_2.dir/ConsoleApplication/triangle.cpp.obj	e093bfcda8a77738
+17	779	7641067629028689	CMakeFiles/_2.dir/ConsoleApplication/ConsoleApplication.cpp.obj	a7b7830c48a1f4a8
+780	1100	7641067636651801	_2.exe	a14b88e8ae1d73a2
+29	675	7641617684770062	build.ninja	446d5121f6f34dad
+35	381	7641647249306327	CMakeFiles/_2.dir/ConsoleApplication/triangle.cpp.obj	e093bfcda8a77738
+14	939	7641647249091631	CMakeFiles/_2.dir/ConsoleApplication/ConsoleApplication.cpp.obj	a7b7830c48a1f4a8
+940	1236	7641647258351851	_2.exe	a14b88e8ae1d73a2
+38	360	7641657907393681	CMakeFiles/_2.dir/ConsoleApplication/triangle.cpp.obj	e093bfcda8a77738
+13	920	7641657907140102	CMakeFiles/_2.dir/ConsoleApplication/ConsoleApplication.cpp.obj	a7b7830c48a1f4a8
+920	1225	7641657916214057	_2.exe	a14b88e8ae1d73a2

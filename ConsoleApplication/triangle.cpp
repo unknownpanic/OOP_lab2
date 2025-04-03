@@ -1,7 +1,9 @@
 #include "triangle.h"
 #include <cmath>
 
-double vectorCrossProduct(const Point& A, const Point& B, const Point& C) {
+using namespace std;
+
+int vectorCrossProduct(const Point& A, const Point& B, const Point& C) {
     return (B.x - A.x) * (C.y - A.y) - (B.y - A.y) * (C.x - A.x);
 }
 
@@ -17,7 +19,7 @@ bool isPointInsideTriangle(const Triangle& triangle, const Point& point) {
 }
 
 bool isTriangleDegenerate(const Triangle& triangle) {
-    return std::abs(vectorCrossProduct(triangle.vertexA, triangle.vertexB, triangle.vertexC)) < 1e-10;
+    return abs(vectorCrossProduct(triangle.vertexA, triangle.vertexB, triangle.vertexC)) > 0;
 }
 
 bool isPointOnTriangleBoundary(const Triangle& triangle, const Point& point) {
