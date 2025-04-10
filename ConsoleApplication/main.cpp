@@ -14,7 +14,7 @@ int main() {
     cin >> triangle.vertexC.x >> triangle.vertexC.y;
 
     if (isTriangleDegenerate(triangle)) {
-        cout << "Warning - The triangle is degenerate. Points will be checked regardless.\n";
+        cout << "Warning: The triangle is degenerate. Points will be checked regardless.\n";
     }
 
     int numPoints;
