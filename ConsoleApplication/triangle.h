@@ -9,7 +9,8 @@ struct Triangle {
     Point vertexC;
 };
 
+bool isPointInsideTriangleVector(const Triangle& triangle, const Point& point, double epsilon = 1e-9);
+bool isPointOnTriangleBoundary(const Triangle& triangle, const Point& point, double epsilon = 1e-9);
+double calculateTriangleAreaHeron(const Triangle& triangle);
+bool isPointInsideTriangleHeron(const Triangle& triangle, const Point& point, double epsilon = 1e-9);
 bool isTriangleDegenerate(const Triangle& triangle);
-bool isPointInsideTriangle(const Triangle& triangle, const Point& point);
-bool isPointOnTriangleBoundary(const Triangle& triangle, const Point& point);
-
